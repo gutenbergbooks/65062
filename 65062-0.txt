@@ -721,9 +721,9 @@ Cambridge, Massachusetts.
 
 
 
-        LANDSCAPES
+LANDSCAPES
 
-    (FOR CLEMENT R. WOOD)
+(FOR CLEMENT R. WOOD)
 
 
     The rain was over, and the brilliant air
@@ -797,9 +797,9 @@ Cambridge, Massachusetts.
 
 
 
-        PHI BETA KAPPA POEM
+PHI BETA KAPPA POEM
 
-        _Harvard, 1914_
+_Harvard, 1914_
 
 
     Sir, friends, and scholars, we are here to serve
@@ -1043,7 +1043,7 @@ Cambridge, Massachusetts.
 
 
 
-        THE DESERTED PASTURE
+THE DESERTED PASTURE
 
 
     I love the stony pasture
@@ -1101,7 +1101,7 @@ Cambridge, Massachusetts.
 
 
 
-        TO A PHŒBE-BIRD
+TO A PHŒBE-BIRD
 
 
     Under the eaves, out of the wet,
@@ -1134,7 +1134,7 @@ Cambridge, Massachusetts.
 
 
 
-        FROM A MOTOR IN MAY
+FROM A MOTOR IN MAY
 
 
     The leaves of Autumn and the buds of Spring
@@ -1157,7 +1157,7 @@ Cambridge, Massachusetts.
 
 
 
-        TO A GARDEN IN APRIL
+TO A GARDEN IN APRIL
 
 
     Alas, and are you pleading now for pardon?
@@ -1170,7 +1170,7 @@ Cambridge, Massachusetts.
 
 
 
-        JEWEL-WEED
+JEWEL-WEED
 
 
     Thou lonely, dew-wet mountain road,
@@ -1213,7 +1213,7 @@ Cambridge, Massachusetts.
 
 
 
-        IRISH
+IRISH
 
 
     My father and mother were Irish,
@@ -1234,7 +1234,7 @@ Cambridge, Massachusetts.
 
 
 
-        THE REGENTS’ EXAMINATION
+THE REGENTS’ EXAMINATION
 
 
     Muffled sounds of the city climbing to me at the window,
@@ -1255,7 +1255,7 @@ Cambridge, Massachusetts.
 
 
 
-        YANKEE DOODLE
+YANKEE DOODLE
 
      This poem is intended as a description of a sort of Blashfield
      mural painting on the sky. To be sung to the tune of Yankee Doodle,
@@ -1329,12 +1329,12 @@ Cambridge, Massachusetts.
 
 
 
-        FIGHT
+FIGHT
 
-    THE TALE OF A GUNNER AT PLATTSBURGH, 1814[1]
+THE TALE OF A GUNNER AT PLATTSBURGH, 1814[1]
 
 
-        I
+I
 
     Jock bit his mittens off and blew his thumbs;
     He scraped the fresh sleet from the frozen sign:
@@ -1484,7 +1484,7 @@ Cambridge, Massachusetts.
             Drums--drums were rolling.
 
 
-        II
+II
 
     Shy wings flashed in the orchard, _glitter, glitter_;
     Blue wings bloomed soft through blossom-colored leaves,
@@ -1634,7 +1634,7 @@ Cambridge, Massachusetts.
             Guns--guns were booming.
 
 
-        III
+III
 
     Plattsburgh--and windless beauty on the bay;
     Autumnal morning and the sun at seven:
@@ -1783,7 +1783,7 @@ Cambridge, Massachusetts.
             Hearts--hearts are bleeding.
 
 
-        IV
+IV
 
     Macdonough lies with Downie in one land.
     Victor and vanquished long ago were peers.
@@ -1817,7 +1817,7 @@ Cambridge, Massachusetts.
 
 
 
-        THE PROPHET
+THE PROPHET
 
 
     Jeremiah, will you come?
@@ -1840,7 +1840,7 @@ Cambridge, Massachusetts.
 
 
 
-        NEWPORT
+NEWPORT
 
 
     On these brown rocks the waves dissolve in spray
@@ -1863,7 +1863,7 @@ Cambridge, Massachusetts.
 
 
 
-        TO A PHOTOGRAPHER
+TO A PHOTOGRAPHER
 
 
     I have known joy and woe and toil and fight
@@ -1886,7 +1886,7 @@ Cambridge, Massachusetts.
 
 
 
-        SONG
+SONG
 
 
     Flesh unto flowers,
@@ -1904,7 +1904,7 @@ Cambridge, Massachusetts.
 
 
 
-        SONNET XXXVII
+SONNET XXXVII
 
 
       Through vales of Thrace, Peneus’ stream is flowing
@@ -1927,7 +1927,7 @@ Cambridge, Massachusetts.
 
 
 
-        THE HUNTING OF DIAN
+THE HUNTING OF DIAN
 
 
     In the silence of a midnight lost, lost forevermore,
@@ -1983,10 +1983,10 @@ Cambridge, Massachusetts.
 
 
 
-        THE FIREMEN’S BALL
+THE FIREMEN’S BALL
 
 
-        SECTION ONE
+SECTION ONE
 
 [Sidenote: _To be read, or chanted, with the heavy buzzing bass of
 fire-engines pumping. In this passage the reading or chanting is
@@ -2080,7 +2080,7 @@ shriller and higher._]
     Of the firemen’s ball--
 
 
-        SECTION TWO
+SECTION TWO
 
 [Sidenote: _To be read or sung slowly and softly, in the manner of
 lustful, insinuating music._]
@@ -2198,7 +2198,7 @@ sonorous._]
     OF ... THE ... FIREMEN’S ... BALL ...
 
 
-        SECTION THREE
+SECTION THREE
 
      In Which, contrary to Artistic Custom, the moral of the piece is
      placed before the reader.
@@ -2209,7 +2209,7 @@ sonorous._]
      the fire of passion, with the fire of anger, with the fire of
      ignorance. It is burning with the anxieties of birth, decay and
      death, grief, lamentation, suffering and despair.... A disciple,
-     ... becoming weary of all that, divests himself of passion. By
+... becoming weary of all that, divests himself of passion. By
      absence of passion, he is made free.’”)
 
 [Sidenote: _To be intoned after the manner of a priestly service._]
@@ -2273,7 +2273,7 @@ sonorous._]
 
 
 
-        SUMMONS
+SUMMONS
 
 
     The eager night and the impetuous winds,
@@ -2340,7 +2340,7 @@ sonorous._]
 
 
 
-        PATTERNS
+PATTERNS
 
 
     Would you lay a pattern on life and say, thus shall ye live?
@@ -2368,7 +2368,7 @@ sonorous._]
 
 
 
-        NEW YORK
+NEW YORK
 
 
     Sea-rimmed and teeming with millions poured out on thy granite shore
@@ -2492,7 +2492,7 @@ sonorous._]
 
 
 
-        WE DEAD
+WE DEAD
 
 
     When from the brooding home,
@@ -2620,7 +2620,7 @@ sonorous._]
 
 
 
-        GOD AND THE FARMER
+GOD AND THE FARMER
 
 
     God sat down with the farmer
@@ -2682,7 +2682,7 @@ sonorous._]
 
 
 
-        SONG
+SONG
 
 
     O shadows past the candle-gleam, so brief to pause in flight,
@@ -2705,7 +2705,7 @@ sonorous._]
 
 
 
-        SURETY
+SURETY
 
 
     We have each other’s deathless love,
@@ -2734,7 +2734,7 @@ sonorous._]
 
 
 
-        REMEMBRANCE: GREEK FOLK-SONG
+REMEMBRANCE: GREEK FOLK-SONG
 
 
     _Not unto the forest--not unto the forest, O my lover!
@@ -2769,7 +2769,7 @@ sonorous._]
 
 
 
-        THE TWO FLAMES
+THE TWO FLAMES
 
 
     Behind my mask of life there lies a shrine
@@ -2886,7 +2886,7 @@ sonorous._]
 
 
 
-        THE LOOK
+THE LOOK
 
 
     Strephon kissed me in the spring,
@@ -2904,7 +2904,7 @@ sonorous._]
 
 
 
-        THE FLIRT
+THE FLIRT
 
 
     Beautiful boy, lend me your youth to play with;
@@ -2930,7 +2930,7 @@ sonorous._]
 
 
 
-        YOUNG EDEN
+YOUNG EDEN
 
 
         Flushed from a fairy flagon
@@ -3041,7 +3041,7 @@ sonorous._]
 
 
 
-        ABLUTION
+ABLUTION
 
 
     Thus drowsy Atthis, laughing at my door:
@@ -3064,7 +3064,7 @@ sonorous._]
 
 
 
-        PILGRIMAGE
+PILGRIMAGE
 
 
     I will tread on the golden grass of my bright field,
@@ -3102,7 +3102,7 @@ sonorous._]
 
 
 
-        BALLAD OF TWO SEAS
+BALLAD OF TWO SEAS
 
 
     “Wherefore, thy woe these many years,
@@ -3185,7 +3185,7 @@ sonorous._]
 
 
 
-        EROS TURANNOS
+EROS TURANNOS
 
 
     She fears him, and will always ask
@@ -3242,12 +3242,12 @@ sonorous._]
     Or like a stairway to the sea,
       Where down the blind are driven.
 
-        _Poetry: A Magazine of Verse_      _Edwin Arlington Robinson_
+_Poetry: A Magazine of Verse_      _Edwin Arlington Robinson_
 
 
 
 
-        THE SHROUD
+THE SHROUD
 
 
     Death, I say, my heart is bowed
@@ -3275,7 +3275,7 @@ sonorous._]
 
 
 
-        THE MOTHER
+THE MOTHER
 
 
     Never again to feel that little kiss--
@@ -3301,7 +3301,7 @@ sonorous._]
 
 
 
-        A HANDFUL OF DUST
+A HANDFUL OF DUST
 
 
     I stooped to the silent earth and lifted a handful of her dust.
@@ -3347,7 +3347,7 @@ sonorous._]
 
 
 
-        A LYNMOUTH WIDOW
+A LYNMOUTH WIDOW
 
 
     He was straight and strong, and his eyes were blue
@@ -3375,7 +3375,7 @@ sonorous._]
 
 
 
-        THE GIFT OF GOD
+THE GIFT OF GOD
 
 
     Blessed with a joy that only she
@@ -3437,7 +3437,7 @@ sonorous._]
 
 
 
-        SONNET XXIX
+SONNET XXIX
 
 
       In the fair picture of my life’s estate
@@ -3460,7 +3460,7 @@ sonorous._]
 
 
 
-        ROMANCE
+ROMANCE
 
 
     The last farewells were said, friends hurried ashore,--
@@ -3664,7 +3664,7 @@ sonorous._]
     A young girl eyed herself, with frightened stare.
 
 
-        II
+II
 
     She eyed herself with quick breath, frightened stare,
     The fingers of one hand caught at her throat,
@@ -3907,7 +3907,7 @@ sonorous._]
     “How wonderful!--how wonderful!”--again.
 
 
-        III
+III
 
     October earth, with scarlet maple-leaf,
     With oak-leaves brown, with flaming leaves and pale;
@@ -4014,7 +4014,7 @@ sonorous._]
 
 
 
-        VAIN EXCUSE
+VAIN EXCUSE
 
 
     Be patient, Life, when Love is at the gate,
@@ -4041,7 +4041,7 @@ sonorous._]
 
 
 
-        SONNET XXX
+SONNET XXX
 
 
     You mean, my friend, you do not greatly care
@@ -4064,7 +4064,7 @@ sonorous._]
 
 
 
-        LOST TREASURE
+LOST TREASURE
 
 
     You know deep in your heart, it could not last--
@@ -4093,7 +4093,7 @@ sonorous._]
 
 
 
-        OLD FAIRINGDOWN
+OLD FAIRINGDOWN
 
 
     Soft as a treader on mosses
@@ -4212,7 +4212,7 @@ sonorous._]
 
 
 
-        IN THE ROMAN FORUM
+IN THE ROMAN FORUM
 
 
       Nothing but beauty, now.
@@ -4286,7 +4286,7 @@ sonorous._]
 
 
 
-        ASH WEDNESDAY
+ASH WEDNESDAY
 
 (_After hearing a lecture on the origins of religion_)
 
@@ -4504,7 +4504,7 @@ sonorous._]
 
 
 
-        THE LAGGARD SONG
+THE LAGGARD SONG
 
 
     I had no heart to write to thee in prose,
@@ -4529,7 +4529,7 @@ sonorous._]
 
 
 
-        GROTESQUE
+GROTESQUE
 
 
     With the first light on the skyline came the rapping of the sickles
@@ -4559,7 +4559,7 @@ sonorous._]
 
 
 
-        BALLADE OF A DEAD LADY
+BALLADE OF A DEAD LADY
 
 
     All old fair things are in their places,
@@ -4590,7 +4590,7 @@ sonorous._]
     Ah! where have they hidden those great eyes?”
 
 
-        ENVOI
+ENVOI
 
     Prince, I bring you my April praises,
       But O! on my heart a shadow lies;
@@ -4602,7 +4602,7 @@ sonorous._]
 
 
 
-        AN EPITAPH
+AN EPITAPH
 
 
     Perhaps it doesn’t matter that you died,
@@ -4615,7 +4615,7 @@ sonorous._]
 
 
 
-        WAR
+WAR
 
 
     Fools, fools, fools,
@@ -4634,7 +4634,7 @@ sonorous._]
 
 
 
-        FRANCE
+FRANCE
 
 
     Half artist and half anchorite,
@@ -4653,7 +4653,7 @@ sonorous._]
 
 
 
-        THE DRUM
+THE DRUM
 
 
     There’s a rhythm down the road where the elms overarch
@@ -4769,7 +4769,7 @@ sonorous._]
 
 
 
-        IF!
+IF!
 
 
     Suppose ’twere done!
@@ -4819,7 +4819,7 @@ sonorous._]
 
 
 
-        PRELUDE
+PRELUDE
 
 
     Embracing the woman I love, I stood by the stream that circles the
@@ -4891,7 +4891,7 @@ sonorous._]
 
 
 
-        THE OTHER ARMY
+THE OTHER ARMY
 
 
     O’er ruined road past draggled field,
@@ -4939,7 +4939,7 @@ sonorous._]
 
 
 
-        THE BUGLE
+THE BUGLE
 
 
       Oh calling, and calling, at the rising of the sun,
@@ -4999,7 +4999,7 @@ sonorous._]
 
 
 
-        HE WENT FOR A SOLDIER
+HE WENT FOR A SOLDIER
 
 
     He marched away with a blithe young score of him
@@ -5061,14 +5061,14 @@ sonorous._]
 
 
 
-        SIX SONNETS
+SIX SONNETS
 
-    (August, 1914)
+(August, 1914)
 
 
-        I
+I
 
-        TO WILLIAM WATSON IN ENGLAND
+TO WILLIAM WATSON IN ENGLAND
 
     Singer of England’s ire across the sea,
     Your austere voice, electric from the deep,
@@ -5087,9 +5087,9 @@ sonorous._]
     He cannot tear our plighted souls apart.
 
 
-        II
+II
 
-        AMERICAN NEUTRALITY
+AMERICAN NEUTRALITY
 
     How shall we keep an armed neutrality
     With our own souls? Our souls belie our lips,
@@ -5108,9 +5108,9 @@ sonorous._]
     Our souls cannot keep neutral and keep true.
 
 
-        III
+III
 
-        PEACE
+PEACE
 
     _Peace!_--But there is no peace. To hug the thought
     Is but to clasp a lover who thinks lies.
@@ -5129,9 +5129,9 @@ sonorous._]
     Or would we crown with peace--Caligula?
 
 
-        IV
+IV
 
-        WILSON
+WILSON
 
     Patience--but peace of heart we cannot choose;
     Nor would he wish us cravenly to keep
@@ -5150,9 +5150,9 @@ sonorous._]
     The wolf of Europe has not triumphed yet.
 
 
-        V
+V
 
-        KRUPPISM
+KRUPPISM
 
     Crowned on the twilight battlefield, there bends
     A crooked iron dwarf, and delves for gold,
@@ -5171,9 +5171,9 @@ sonorous._]
     So long shall we serve Krupp instead of Christ.
 
 
-        VI
+VI
 
-        THE REAL GERMANY
+THE REAL GERMANY
 
     Bismarck--or rapt Beethoven with his dreams:
     Ah, which was blind? Or which bespoke his race?--
@@ -5196,13 +5196,13 @@ sonorous._]
 
 
 
-        LITANY OF NATIONS
+LITANY OF NATIONS
 
      The nations shall rush like the rushing of many waters ... and
      shall be chased before the wind.--_Isaiah._
 
 
-        GREECE
+GREECE
 
     Aeons of old were wandering down the seas,
       When Homer sang at Chios--and the sweet
@@ -5215,7 +5215,7 @@ sonorous._]
       _What have we squandered?_
 
 
-        ITALY
+ITALY
 
     Avid and Roman born in soul and sense,
       Master of all else but myself was I,
@@ -5223,7 +5223,7 @@ sonorous._]
           I saw the world go by.
 
 
-        FRANCE
+FRANCE
 
     Ravaging, roystering and repenting--save
       In story and the regions of romance,
@@ -5231,7 +5231,7 @@ sonorous._]
           Or beautiful than France?
 
 
-        GERMANY
+GERMANY
 
     Once German arms and German armies hurled
       Thunders on Rome. Than mine no readier hand
@@ -5239,7 +5239,7 @@ sonorous._]
           Were it a fairyland.
 
 
-        AUSTRIA-HUNGARY
+AUSTRIA-HUNGARY
 
     Mine is a house divided but upheld
       By the sheer force of many hemming powers.
@@ -5247,7 +5247,7 @@ sonorous._]
           To build my crumbling towers.
 
 
-        RUSSIA
+RUSSIA
 
     Gray winters flourish and old empires fail;
       And still the starry watchmen sally forth
@@ -5255,7 +5255,7 @@ sonorous._]
           And ramparts of the north.
 
 
-        BALKAN STATES
+BALKAN STATES
 
     Stabbing the skies for stars and air in which
       To bask awhile and breathe--shall we remain
@@ -5263,7 +5263,7 @@ sonorous._]
           God! have we fought in vain?
 
 
-        SPAIN
+SPAIN
 
     Strong was my soul in war and wise in peace.
       On whom else was the Moslem vanguard hurled?
@@ -5271,7 +5271,7 @@ sonorous._]
           Sailed and brought back a world?
 
 
-        SWITZERLAND
+SWITZERLAND
 
     High noons and sunsets pass while I repeat
       The world-old secret of the endless quest;
@@ -5279,7 +5279,7 @@ sonorous._]
           I overlook the west.
 
 
-        GREAT BRITAIN
+GREAT BRITAIN
 
     Flecking the seas where war and tempest brew,
       And biding till the gonfalons are furled,
@@ -5287,7 +5287,7 @@ sonorous._]
           Thunders that shook the world.
 
 
-        AMERICA
+AMERICA
 
     Westward the tide of empire ebbs and flows:
       And westward where the new-world torches rise
@@ -5295,7 +5295,7 @@ sonorous._]
           And kindles in my eyes.
 
 
-        JAPAN
+JAPAN
 
     Amid the warring peoples I that slept
       And dreamt of wide dominion--confident,
@@ -5303,7 +5303,7 @@ sonorous._]
           Out from the orient.
 
 
-        CHINA
+CHINA
 
     Glory and power for ages had been mine,
       Until upon me fell a sudden night,
@@ -5311,7 +5311,7 @@ sonorous._]
           And my eyes saw the light.
 
 
-        TURKEY
+TURKEY
 
     In infidel debate on whence and why,
       They hiss my God, and know not whether hale
@@ -5328,7 +5328,7 @@ sonorous._]
 
 
 
-        TO THE NECROPHILE
+TO THE NECROPHILE
 
      (_After reading of the affectionate desire of Germany “to get
      closer to France,” expressed by the German Secretary of State to
@@ -5357,7 +5357,7 @@ sonorous._]
 
 
 
-        LOUVAIN
+LOUVAIN
 
 
     Bleeding and torn, ravished with sword and flame,
@@ -5378,7 +5378,7 @@ sonorous._]
 
 
 
-        THE ANCIENT SACRIFICE
+THE ANCIENT SACRIFICE
 
 
     Ye dead and gone great armies of the world,
@@ -5404,7 +5404,7 @@ sonorous._]
 
 
 
-        THE PIPES OF THE NORTH
+THE PIPES OF THE NORTH
 
 
     Do ye hear ’em sternly soundin’ through the noises of the street,
@@ -5462,7 +5462,7 @@ sonorous._]
 
 
 
-        OUT OF BABYLON
+OUT OF BABYLON
 
 
     As I stole out of Babylon beyond the stolid warders,
@@ -5500,7 +5500,7 @@ sonorous._]
 
 
 
-        “FUNERE MERSIT ACERBO”
+“FUNERE MERSIT ACERBO”
 
 (_Written by Giosué Carducci at the death of his little son Dante, and
 addressed to his brother Dante, who had taken his own life years
@@ -5527,7 +5527,7 @@ before._)
 
 
 
-        AFTERWARDS
+AFTERWARDS
 
 
     There was a day when death to me meant tears,
@@ -5550,7 +5550,7 @@ before._)
 
 
 
-        EVENING
+EVENING
 
 
     Go, little sorrows! From the evening wood
@@ -5573,7 +5573,7 @@ before._)
 
 
 
-        LIGHTS THROUGH THE MIST
+LIGHTS THROUGH THE MIST
 
 
     Some for the sadness and sweetness of far evening bells,
@@ -5596,9 +5596,9 @@ before._)
 
 
 
-        THE TWELVE-FORTY-FIVE
+THE TWELVE-FORTY-FIVE
 
-    (FOR EDWARD J. WHEELER)
+(FOR EDWARD J. WHEELER)
 
 
     Within the Jersey City shed
@@ -5695,7 +5695,7 @@ before._)
 
 
 
-        THE LAST DEMAND
+THE LAST DEMAND
 
 
     Life, you have bruised me and chilled me; Fate, you have
@@ -5732,10 +5732,10 @@ before._)
 
 
 
-        GODSPEED!
+GODSPEED!
 
 
-        THE SOUL SPEAKS:
+THE SOUL SPEAKS:
 
     “Body o’ mine--and must I lay thee low?
     So long I have looked out from thy dear eye!
@@ -5744,7 +5744,7 @@ before._)
     Shall dust claim all, and must I say good-bye?
     Godspeed!”
 
-        THE BODY SPEAKS:
+THE BODY SPEAKS:
 
     “Sister o’ mine--I go from whence I came,
     Perchance to bloom again, or if required,
@@ -5758,7 +5758,7 @@ before._)
 
 
 
-        AT THE END OF THE ROAD
+AT THE END OF THE ROAD
 
 
     This is the truth as I see it, my dear,
@@ -5793,7 +5793,7 @@ before._)
 
 
 
-        PATH FLOWER
+PATH FLOWER
 
 
     A red-cap sang in Bishop’s wood,
@@ -5915,7 +5915,7 @@ before._)
 
 
 
-        THE GOD-MAKER, MAN
+THE GOD-MAKER, MAN
 
 
       Nevermore
@@ -6015,10 +6015,10 @@ before._)
 
 
 
-        THE BEST POETRY OF 1914
+THE BEST POETRY OF 1914
 
 
-        I. TEN BOOKS OF POETRY FOR A SMALL LIBRARY.
+I. TEN BOOKS OF POETRY FOR A SMALL LIBRARY.
 
 [* Certain volumes of new poetry and collected editions are
 drawn to the individual reader’s notice by an asterisk employed to
